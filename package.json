@@ -1,0 +1,15 @@
+{
+  "name": "teste_qa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tay Erlacher",
+  "license": "ISC",
+  "description": "Este documento tem como objetivo validar as funcionalidades relacionadas ao gerenciamento de produtos, incluindo cadastro, edição, exclusão e listagem de produtos. O foco dos testes é garantir que todas essas operações funcionem corretamente, observando as restrições necessárias, como a edição e exclusão de produtos apenas pelo usuário que os cadastrou.",
+  "devDependencies": {
+    "cypress": "^13.15.0"
+  }
+}
